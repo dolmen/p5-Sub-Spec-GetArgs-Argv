@@ -336,12 +336,4 @@ L<Sub::Spec>
 
 L<Sub::Spec::CmdLine>
 
-=head1 AUTHOR
-
-TODO
-
-=head1 COPYRIGHT & LICENSE
-
-TODO
-
 =cut
